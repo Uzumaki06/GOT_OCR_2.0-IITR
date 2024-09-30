@@ -1,0 +1,9 @@
+streamlit 
+tiktoken
+verovio
+transformers
+Pillow
+numpy
+torch
+torchvision
+accelerate
