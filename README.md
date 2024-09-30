@@ -3,6 +3,10 @@
 GOT (General OCR Theory) 2.0 Model is one of the best models available for the OCR related tasks. It supports different OCR formats depending upon the use case, but the format text ocr is what according to me should be used for extracting text as it gave me better results than the plain ocr used in the model.
 In order to implement the GOT_OCR_2.0 Model we need to implement the following steps--:
 
+# Clone the Repository
+
+git clone https://github.com/Uzumaki06/GOT_OCR_2.0-IITR
+
 # Setting the Environment
 
 python -m venv .env
