@@ -6,4 +6,3 @@ Pillow
 numpy
 torch
 torchvision
-accelerate
